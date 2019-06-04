@@ -1,4 +1,4 @@
-#Java EXtention pack
+Java EXtention pack
 JEX is an extention library for Java development. It contains several classes and function for different usages.
 A list of all classes and their usage can be find below.
 
